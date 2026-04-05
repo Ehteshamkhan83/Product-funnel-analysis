@@ -1,5 +1,7 @@
 # Product Funnel Analysis
 
+## E-commerce User Behavior Analysis using Python and SQL
+
 This project analyzes user behavior in an e-commerce platform using Python and SQL.  
 The goal is to understand how users move through the product funnel (View → Cart → Purchase) and identify insights about user activity and product performance.
 
