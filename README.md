@@ -42,4 +42,10 @@ Some of the key SQL queries used in the project:
 - Category popularity
 - Average purchase price
 
+## Key Insights
+- Only around **9% of users move from View to Cart**.
+- Around **57% of users who add to cart complete the purchase**.
+- A small group of users generates a large portion of platform activity.
+- Certain brands dominate purchase behavior.
+
 ## Project Structure
